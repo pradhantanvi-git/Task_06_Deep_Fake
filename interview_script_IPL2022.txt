@@ -1,0 +1,41 @@
+Transcript from my Video
+This matches the dialogue I generated for Q1–Q8:
+
+Opening Disclosure:
+“This is IPL 2022 AI-based street interview. This is AI-generated synthetic media created for academic research. No real person’s voice was cloned.”
+
+Q1 – Most wins
+Host: “Which team won the most matches in IPL 2022?”
+ Captain: “The Gujarat Titans, with twelve wins in their debut season.”
+
+Q2 – Player of the Match leader
+Host: “And who was most often named Player of the Match?”
+ Captain: “Kuldeep Yadav, with four awards. Jos Buttler followed with three.”
+
+Q3 – Toss winners
+Host: “Does winning the toss usually decide the match?”
+ Captain: “Not really. Toss winners won thirty-six of seventy-four matches, about forty-nine percent.”
+
+Q4 – Gujarat’s style of winning
+Host: “How did Gujarat usually secure their wins—by chasing or batting first?”
+ Captain: “They won eight matches while chasing and four matches when batting first.”
+
+Q5 – Top Player-of-the-Match innings
+Host: “Which players had the highest individual scores in Player of the Match performances?”
+ Captain: “Quinton de Kock with one hundred forty not out, Jos Buttler with one hundred sixteen, and K. L. Rahul with one hundred three not out.”
+
+Q6 – Chasing vs defending overall
+Host: “Overall, did teams win more by defending or by chasing in IPL 2022?”
+ Captain: “Teams chasing won forty matches, compared to thirty-four wins while defending.”
+
+Q7 – Venue tendencies
+Host: “Which venues were most batting-friendly and most chase-friendly?”
+ Captain: “Brabourne Stadium had one of the highest average first-innings scores, while DY Patil Stadium had the highest share of wins from chasing.”
+
+Q8 – Close games
+Host: “And finally, who handled close games best—wins by ten runs or fewer, or three wickets or fewer?”
+ Captain: “Rajasthan Royals had the best win rate in close games, and Gujarat were strong contenders too.”
+
+Closing line
+Host: “So, what’s the big lesson from IPL 2022?”
+ Captain: “Teams should prioritize flexible chasing strategies but also keep strong bowling depth for close defenses. Balance is the key.”
